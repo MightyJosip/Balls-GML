@@ -1,0 +1,11 @@
+ini_open("Save.sav")
+gold = ini_read_real("Profile", "Gold", 0)
+ini_close()
+draw_text_transformed(0, 0, string_hash_to_newline("Score: " + string(score)), 0.5, 0.5, 0)
+draw_text_transformed(0, 40, string_hash_to_newline("Lives: " + string(lives)), 0.5, 0.5, 0)
+draw_text_transformed(0, 80, string_hash_to_newline("Multiplier: x" + string(multiplier)), 0.5, 0.5, 0)
+draw_text_transformed(0, 120, string_hash_to_newline("Gold: " + string(gold)), 0.5, 0.5, 0)
+if (slow = true) draw_text_transformed(0, 160, string_hash_to_newline("Slow"), 0.5, 0.5, 0)
+if (double = true) draw_text_transformed(0, 160, string_hash_to_newline("Double"), 0.5, 0.5, 0)
+if (bounce = true) draw_text_transformed(0, 160, string_hash_to_newline("Bounce"), 0.5, 0.5, 0)
+

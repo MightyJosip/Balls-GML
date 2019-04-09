@@ -1,0 +1,427 @@
+Converting GML script: ${project_dir}\scripts\scr_save\scr_save.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 3: 'Profile' -> "Profile"
+Converted string - line 3: 'Highscore' -> "Highscore"
+
+Converting GML script: ${project_dir}\scripts\scr_load\scr_load.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Highscore' -> "Highscore"
+
+Converting GML script: ${project_dir}\scripts\scr_gold\scr_gold.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Gold' -> "Gold"
+Converted string - line 3: 'Profile' -> "Profile"
+Converted string - line 3: 'Gold' -> "Gold"
+
+Converting GML script: ${project_dir}\scripts\scr_games_count\scr_games_count.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Games' -> "Games"
+Converted string - line 3: 'Profile' -> "Profile"
+Converted string - line 3: 'Games' -> "Games"
+
+Font fnt_default has been converted to font family Arial (Regular) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\obj_controller_menu\Create_0.gml
+Converted string - line 4: 'Save.sav' -> "Save.sav"
+Converted string - line 5: 'Profile' -> "Profile"
+Converted string - line 5: 'Slow' -> "Slow"
+Converted string - line 6: 'Profile' -> "Profile"
+Converted string - line 6: 'Double' -> "Double"
+Converted string - line 7: 'Profile' -> "Profile"
+Converted string - line 7: 'Bounce' -> "Bounce"
+Converted string - line 8: 'Profile' -> "Profile"
+Converted string - line 8: 'SpawnRate' -> "SpawnRate"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'NextAd' -> "NextAd"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'Gold' -> "Gold"
+Converted string - line 11: 'Profile' -> "Profile"
+Converted string - line 11: 'Football' -> "Football"
+Converted string - line 12: 'Profile' -> "Profile"
+Converted string - line 12: 'Tennis' -> "Tennis"
+Converted string - line 13: 'Profile' -> "Profile"
+Converted string - line 13: 'Volleyball' -> "Volleyball"
+
+Converting GML script: ${project_dir}\objects\obj_controller_menu\Step_0.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Slow' -> "Slow"
+Converted string - line 3: 'Profile' -> "Profile"
+Converted string - line 3: 'Double' -> "Double"
+Converted string - line 4: 'Profile' -> "Profile"
+Converted string - line 4: 'Bounce' -> "Bounce"
+Converted string - line 5: 'Profile' -> "Profile"
+Converted string - line 5: 'SpawnRate' -> "SpawnRate"
+Converted string - line 6: 'Profile' -> "Profile"
+Converted string - line 6: 'NextAd' -> "NextAd"
+Converted string - line 7: 'Profile' -> "Profile"
+Converted string - line 7: 'Gold' -> "Gold"
+Converted string - line 18: 'Save.sav' -> "Save.sav"
+Converted string - line 19: 'Profile' -> "Profile"
+Converted string - line 19: 'NextAd' -> "NextAd"
+
+Converting GML script: ${project_dir}\objects\obj_controller_menu\Draw_0.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Gold' -> "Gold"
+
+Converting GML script: ${project_dir}\objects\obj_show_stats_normal\Draw_0.gml
+Converted string - line 2: 'Save.sav' -> "Save.sav"
+Converted string - line 3: 'Profile' -> "Profile"
+Converted string - line 3: 'Gold' -> "Gold"
+Converted string - line 4: 'Profile' -> "Profile"
+Converted string - line 4: 'Games' -> "Games"
+Converted string - line 5: 'Profile' -> "Profile"
+Converted string - line 5: 'MinuteHigh' -> "MinuteHigh"
+Converted string - line 6: 'Profile' -> "Profile"
+Converted string - line 6: 'SecondHigh' -> "SecondHigh"
+Converted string - line 7: 'Profile' -> "Profile"
+Converted string - line 7: 'MinuteAll' -> "MinuteAll"
+Converted string - line 8: 'Profile' -> "Profile"
+Converted string - line 8: 'SecondAll' -> "SecondAll"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'ScoreAll' -> "ScoreAll"
+Converted string - line 14: '0' -> "0"
+Converted string - line 18: '0' -> "0"
+Converted string - line 23: 'Best Result' -> "Best Result"
+Converted string - line 27: 'Highscore' -> "Highscore"
+Converted string - line 33: 'Time (Highscore)' -> "Time (Highscore)"
+Converted string - line 36: ':' -> ":"
+Converted string - line 39: 'Lifetime' -> "Lifetime"
+Converted string - line 43: 'Games played' -> "Games played"
+Converted string - line 49: 'Score' -> "Score"
+Converted string - line 55: 'Time (All)' -> "Time (All)"
+Converted string - line 58: ':' -> ":"
+
+Converting GML script: ${project_dir}\objects\obj_show_stats_frenzy\Draw_0.gml
+Converted string - line 2: 'Save.sav' -> "Save.sav"
+Converted string - line 3: 'Profile' -> "Profile"
+Converted string - line 3: 'Gold' -> "Gold"
+Converted string - line 4: 'Profile' -> "Profile"
+Converted string - line 4: 'GamesFrenzy' -> "GamesFrenzy"
+Converted string - line 5: 'Profile' -> "Profile"
+Converted string - line 5: 'MinuteHighFrenzy' -> "MinuteHighFrenzy"
+Converted string - line 6: 'Profile' -> "Profile"
+Converted string - line 6: 'SecondHighFrenzy' -> "SecondHighFrenzy"
+Converted string - line 7: 'Profile' -> "Profile"
+Converted string - line 7: 'MinuteAllFrenzy' -> "MinuteAllFrenzy"
+Converted string - line 8: 'Profile' -> "Profile"
+Converted string - line 8: 'SecondAllFrenzy' -> "SecondAllFrenzy"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'ScoreAllFrenzy' -> "ScoreAllFrenzy"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'HighscoreFrenzy' -> "HighscoreFrenzy"
+Converted string - line 15: '0' -> "0"
+Converted string - line 19: '0' -> "0"
+Converted string - line 24: 'Best Result' -> "Best Result"
+Converted string - line 28: 'Highscore' -> "Highscore"
+Converted string - line 34: 'Time (Highscore)' -> "Time (Highscore)"
+Converted string - line 37: ':' -> ":"
+Converted string - line 40: 'Lifetime' -> "Lifetime"
+Converted string - line 44: 'Games played' -> "Games played"
+Converted string - line 50: 'Score' -> "Score"
+Converted string - line 56: 'Time (All)' -> "Time (All)"
+Converted string - line 59: ':' -> ":"
+
+Converting GML script: ${project_dir}\objects\obj_controller_normal\Create_0.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'NextAd' -> "NextAd"
+Converted string - line 5: 'Profile' -> "Profile"
+Converted string - line 5: 'NextAd' -> "NextAd"
+Converted string - line 8: 'Profile' -> "Profile"
+Converted string - line 8: 'SpawnRate' -> "SpawnRate"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'Football' -> "Football"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'Tennis' -> "Tennis"
+Converted string - line 11: 'Profile' -> "Profile"
+Converted string - line 11: 'Volleyball' -> "Volleyball"
+
+Converting GML script: ${project_dir}\objects\obj_controller_normal\Step_0.gml
+Converted string - line 6: 'Save.sav' -> "Save.sav"
+Converted string - line 7: 'Profile' -> "Profile"
+Converted string - line 7: 'Gold' -> "Gold"
+Converted string - line 8: 'Profile' -> "Profile"
+Converted string - line 8: 'Gold' -> "Gold"
+Converted string - line 18: 'Save.sav' -> "Save.sav"
+Converted string - line 19: 'Profile' -> "Profile"
+Converted string - line 19: 'MinuteHigh' -> "MinuteHigh"
+Converted string - line 20: 'Profile' -> "Profile"
+Converted string - line 20: 'SecondHigh' -> "SecondHigh"
+Converted string - line 24: 'Save.sav' -> "Save.sav"
+Converted string - line 25: 'Profile' -> "Profile"
+Converted string - line 25: 'MinuteAll' -> "MinuteAll"
+Converted string - line 26: 'Profile' -> "Profile"
+Converted string - line 26: 'SecondAll' -> "SecondAll"
+Converted string - line 34: 'Profile' -> "Profile"
+Converted string - line 34: 'MinuteAll' -> "MinuteAll"
+Converted string - line 35: 'Profile' -> "Profile"
+Converted string - line 35: 'SecondAll' -> "SecondAll"
+Converted string - line 37: 'Profile' -> "Profile"
+Converted string - line 37: 'ScoreAll' -> "ScoreAll"
+Converted string - line 38: 'Profile' -> "Profile"
+Converted string - line 38: 'ScoreAll' -> "ScoreAll"
+
+Converting GML script: ${project_dir}\objects\obj_controller_normal\Draw_0.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Gold' -> "Gold"
+Converted string - line 8: 'Slow' -> "Slow"
+
+Converting GML script: ${project_dir}\objects\obj_controller_frenzy\Create_0.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'NextAd' -> "NextAd"
+Converted string - line 5: 'Profile' -> "Profile"
+Converted string - line 5: 'NextAd' -> "NextAd"
+Converted string - line 8: 'Profile' -> "Profile"
+Converted string - line 8: 'SpawnRate' -> "SpawnRate"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'Football' -> "Football"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'Tennis' -> "Tennis"
+Converted string - line 11: 'Profile' -> "Profile"
+Converted string - line 11: 'Volleyball' -> "Volleyball"
+Converted string - line 20: 'Profile' -> "Profile"
+Converted string - line 20: 'GamesFrenzy' -> "GamesFrenzy"
+Converted string - line 21: 'Profile' -> "Profile"
+Converted string - line 21: 'GamesFrenzy' -> "GamesFrenzy"
+
+Converting GML script: ${project_dir}\objects\obj_controller_frenzy\Step_0.gml
+Converted string - line 6: 'Save.sav' -> "Save.sav"
+Converted string - line 7: 'Profile' -> "Profile"
+Converted string - line 7: 'Gold' -> "Gold"
+Converted string - line 8: 'Profile' -> "Profile"
+Converted string - line 8: 'Gold' -> "Gold"
+Converted string - line 13: 'Save.sav' -> "Save.sav"
+Converted string - line 14: 'Profile' -> "Profile"
+Converted string - line 14: 'HighscoreFrenzy' -> "HighscoreFrenzy"
+Converted string - line 21: 'Save.sav' -> "Save.sav"
+Converted string - line 23: 'Profile' -> "Profile"
+Converted string - line 23: 'HighscoreFrenzy' -> "HighscoreFrenzy"
+Converted string - line 24: 'Profile' -> "Profile"
+Converted string - line 24: 'MinuteHighFrenzy' -> "MinuteHighFrenzy"
+Converted string - line 25: 'Profile' -> "Profile"
+Converted string - line 25: 'SecondHighFrenzy' -> "SecondHighFrenzy"
+Converted string - line 29: 'Save.sav' -> "Save.sav"
+Converted string - line 30: 'Profile' -> "Profile"
+Converted string - line 30: 'MinuteAllFrenzy' -> "MinuteAllFrenzy"
+Converted string - line 31: 'Profile' -> "Profile"
+Converted string - line 31: 'SecondAllFrenzy' -> "SecondAllFrenzy"
+Converted string - line 39: 'Profile' -> "Profile"
+Converted string - line 39: 'MinuteAllFrenzy' -> "MinuteAllFrenzy"
+Converted string - line 40: 'Profile' -> "Profile"
+Converted string - line 40: 'SecondAllFrenzy' -> "SecondAllFrenzy"
+Converted string - line 42: 'Profile' -> "Profile"
+Converted string - line 42: 'ScoreAllFrenzy' -> "ScoreAllFrenzy"
+Converted string - line 43: 'Profile' -> "Profile"
+Converted string - line 43: 'ScoreAllFrenzy' -> "ScoreAllFrenzy"
+
+Converting GML script: ${project_dir}\objects\obj_controller_frenzy\Draw_0.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Gold' -> "Gold"
+Converted string - line 8: 'Slow' -> "Slow"
+
+Converting GML script: ${project_dir}\objects\obj_power_shop\Draw_0.gml
+Converted string - line 6: 'Save.sav' -> "Save.sav"
+Converted string - line 7: 'Profile' -> "Profile"
+Converted string - line 7: 'Gold' -> "Gold"
+Converted string - line 14: 'S' -> "S"
+Converted string - line 18: 'Increase duration' -> "Increase duration"
+Converted string - line 22: 'Currently: ' -> "Currently: "
+Converted string - line 22: 's' -> "s"
+Converted string - line 42: 'X2' -> "X2"
+Converted string - line 46: 'Increase duration' -> "Increase duration"
+Converted string - line 50: 'Currently: ' -> "Currently: "
+Converted string - line 50: 's' -> "s"
+Converted string - line 69: 'B' -> "B"
+Converted string - line 73: 'Increase duration' -> "Increase duration"
+Converted string - line 77: 'Currently: ' -> "Currently: "
+Converted string - line 77: 's' -> "s"
+Converted string - line 96: 'Spawn rate' -> "Spawn rate"
+Converted string - line 100: 'Currently: ' -> "Currently: "
+Converted string - line 100: 's' -> "s"
+
+Converting GML script: ${project_dir}\objects\obj_ball_shop\Draw_0.gml
+Converted string - line 4: 'Own' -> "Own"
+Converted string - line 12: 'Own' -> "Own"
+Converted string - line 20: 'Own' -> "Own"
+
+Converting GML script: ${project_dir}\objects\obj_clock\Draw_0.gml
+Converted string - line 3: '0' -> "0"
+Converted string - line 9: ':' -> ":"
+Converted string - line 10: ':' -> ":"
+
+Converting GML script: ${project_dir}\objects\obj_bounce\Draw_0.gml
+Converted string - line 2: 'B' -> "B"
+
+Converting GML script: ${project_dir}\objects\obj_double\Draw_0.gml
+Converted string - line 2: 'X2' -> "X2"
+
+Converting GML script: ${project_dir}\objects\obj_slow\Draw_0.gml
+Converted string - line 2: 'S' -> "S"
+
+Converting GML script: ${project_dir}\objects\obj_gold\Draw_0.gml
+Converted string - line 2: 'G' -> "G"
+
+Converting GML script: ${project_dir}\objects\obj_main_start\Draw_0.gml
+Converted string - line 2: 'Start' -> "Start"
+
+Converting GML script: ${project_dir}\objects\obj_play_normal\Draw_0.gml
+Converted string - line 2: 'Normal' -> "Normal"
+
+Converting GML script: ${project_dir}\objects\obj_play_frenzy\Draw_0.gml
+Converted string - line 2: 'Frenzy' -> "Frenzy"
+
+Converting GML script: ${project_dir}\objects\obj_select_shop\Draw_0.gml
+Converted string - line 2: 'Shop' -> "Shop"
+
+Converting GML script: ${project_dir}\objects\obj_back_to_shop\Draw_0.gml
+Converted string - line 2: 'Back' -> "Back"
+
+Converting GML script: ${project_dir}\objects\obj_power_up_shop\Draw_0.gml
+Converted string - line 2: 'Power Shop' -> "Power Shop"
+
+Converting GML script: ${project_dir}\objects\obj_balls_shop\Draw_0.gml
+Converted string - line 2: 'Balls Shop' -> "Balls Shop"
+
+Converting GML script: ${project_dir}\objects\obj_select_stats\Draw_0.gml
+Converted string - line 2: 'Stats' -> "Stats"
+
+Converting GML script: ${project_dir}\objects\obj_back_to_stats\Draw_0.gml
+Converted string - line 2: 'Back' -> "Back"
+
+Converting GML script: ${project_dir}\objects\obj_normal_stats\Draw_0.gml
+Converted string - line 2: 'Normal Stats' -> "Normal Stats"
+
+Converting GML script: ${project_dir}\objects\obj_frenzy_stats\Draw_0.gml
+Converted string - line 2: 'Frenzy stats' -> "Frenzy stats"
+
+Converting GML script: ${project_dir}\objects\obj_return_main\Draw_0.gml
+Converted string - line 2: 'Menu' -> "Menu"
+
+Converting GML script: ${project_dir}\objects\obj_buy_football\Mouse_4.gml
+Converted string - line 8: 'Save.sav' -> "Save.sav"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'Gold' -> "Gold"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'Football' -> "Football"
+Converted string - line 13: 'Profile' -> "Profile"
+Converted string - line 13: 'Football' -> "Football"
+Converted string - line 14: 'Profile' -> "Profile"
+Converted string - line 14: 'Gold' -> "Gold"
+
+Converting GML script: ${project_dir}\objects\obj_buy_football\Draw_0.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Football' -> "Football"
+
+Converting GML script: ${project_dir}\objects\obj_buy_tennis\Mouse_4.gml
+Converted string - line 8: 'Save.sav' -> "Save.sav"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'Gold' -> "Gold"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'Tennis' -> "Tennis"
+Converted string - line 13: 'Profile' -> "Profile"
+Converted string - line 13: 'Tennis' -> "Tennis"
+Converted string - line 14: 'Profile' -> "Profile"
+Converted string - line 14: 'Gold' -> "Gold"
+
+Converting GML script: ${project_dir}\objects\obj_buy_tennis\Draw_0.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Tennis' -> "Tennis"
+
+Converting GML script: ${project_dir}\objects\obj_buy_volleyball\Mouse_4.gml
+Converted string - line 8: 'Save.sav' -> "Save.sav"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'Gold' -> "Gold"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'Volleyball' -> "Volleyball"
+Converted string - line 13: 'Profile' -> "Profile"
+Converted string - line 13: 'Volleyball' -> "Volleyball"
+Converted string - line 14: 'Profile' -> "Profile"
+Converted string - line 14: 'Gold' -> "Gold"
+
+Converting GML script: ${project_dir}\objects\obj_buy_volleyball\Draw_0.gml
+Converted string - line 1: 'Save.sav' -> "Save.sav"
+Converted string - line 2: 'Profile' -> "Profile"
+Converted string - line 2: 'Volleyball' -> "Volleyball"
+
+Converting GML script: ${project_dir}\objects\obj_buy_slow\Mouse_4.gml
+Converted string - line 8: 'Save.sav' -> "Save.sav"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'Gold' -> "Gold"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'Slow' -> "Slow"
+Converted string - line 13: 'Profile' -> "Profile"
+Converted string - line 13: 'Slow' -> "Slow"
+Converted string - line 14: 'Profile' -> "Profile"
+Converted string - line 14: 'Gold' -> "Gold"
+
+Converting GML script: ${project_dir}\objects\obj_buy_slow\Draw_0.gml
+Converted string - line 4: 'Max' -> "Max"
+
+Converting GML script: ${project_dir}\objects\obj_buy_double\Mouse_4.gml
+Converted string - line 8: 'Save.sav' -> "Save.sav"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'Gold' -> "Gold"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'Double' -> "Double"
+Converted string - line 13: 'Profile' -> "Profile"
+Converted string - line 13: 'Double' -> "Double"
+Converted string - line 14: 'Profile' -> "Profile"
+Converted string - line 14: 'Gold' -> "Gold"
+
+Converting GML script: ${project_dir}\objects\obj_buy_double\Draw_0.gml
+Converted string - line 5: 'Max' -> "Max"
+
+Converting GML script: ${project_dir}\objects\obj_buy_bounce\Mouse_4.gml
+Converted string - line 8: 'Save.sav' -> "Save.sav"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'Gold' -> "Gold"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'Bounce' -> "Bounce"
+Converted string - line 13: 'Profile' -> "Profile"
+Converted string - line 13: 'Bounce' -> "Bounce"
+Converted string - line 14: 'Profile' -> "Profile"
+Converted string - line 14: 'Gold' -> "Gold"
+
+Converting GML script: ${project_dir}\objects\obj_buy_bounce\Draw_0.gml
+Converted string - line 5: 'Max' -> "Max"
+
+Converting GML script: ${project_dir}\objects\obj_buy_spawn_rate\Mouse_4.gml
+Converted string - line 8: 'Save.sav' -> "Save.sav"
+Converted string - line 9: 'Profile' -> "Profile"
+Converted string - line 9: 'Gold' -> "Gold"
+Converted string - line 10: 'Profile' -> "Profile"
+Converted string - line 10: 'SpawnRate' -> "SpawnRate"
+Converted string - line 13: 'Profile' -> "Profile"
+Converted string - line 13: 'SpawnRate' -> "SpawnRate"
+Converted string - line 14: 'Profile' -> "Profile"
+Converted string - line 14: 'Gold' -> "Gold"
+
+Converting GML script: ${project_dir}\objects\obj_buy_spawn_rate\Draw_0.gml
+Converted string - line 5: 'Max' -> "Max"
+
+Converting GML script: ${project_dir}\objects\obj_quit\Draw_0.gml
+Converted string - line 2: 'Quit' -> "Quit"
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\objects\srt\Create_0.gml
+Converted description /// @description README
+
+Missing audiogroup for sound: 'snd_main' - setting to default audio group
+Game speed set to 30
+Added compatibility script 'action/action_effect.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
